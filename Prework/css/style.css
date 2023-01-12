@@ -1,0 +1,96 @@
+body{
+    margin: 5px;
+   
+    background-color: rgb(236, 110, 88);
+    }
+    
+    h2{
+       
+     
+        text-decoration: underline;
+    
+    }
+    
+    h3{
+       
+    font-style: italic; 
+    font-size: 25px;
+    }
+    p {
+    color: blue;
+    font-size: 20px;
+    
+    }
+    a {
+    color: purple;
+    }
+    .font{
+        font-size: 18px;
+        font-style: italic;
+        
+    }
+    #color{
+        color: rgb(0, 119, 255);
+     
+    }
+    #div1{
+       position: absolute;
+       left: 15%;
+        top: 45%;
+        background-color: rgb(207, 209, 185);
+        width: 350px; height: 80px;
+        
+    }
+     #div2{
+         display: inline-block;
+       
+        background-color: rgba(0, 128, 0, 0.26);
+        
+    }
+    #div{
+       Position: absolute;
+
+        left: 18%;
+        top: 60%;
+
+
+    }
+   #name{
+       position:fixed;
+    
+        top:0;
+        left:50%;
+       text-align: center;
+     
+   }
+  h2:hover{
+    
+      background-color: rgb(0,0,300);
+     color:gray;
+  }
+  .position1{
+      
+     position:absolute;
+    
+    left:18%;
+    top:25%;
+  }
+
+   .position2{
+    
+    
+    position:absolute;
+    left: 40%;
+    top: 20%;
+   
+
+   } 
+   textarea{
+       display: block;
+       margin-bottom: 10px;
+   }
+     table{
+          text-align: center; 
+     }
+     
+
